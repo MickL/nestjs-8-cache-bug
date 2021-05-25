@@ -584,20 +584,20 @@
     webpack "5.28.0"
     webpack-node-externals "2.5.2"
 
-"@nestjs/common@^8.0.0-alpha.4":
-  version "8.0.0-alpha.4"
-  resolved "https://registry.yarnpkg.com/@nestjs/common/-/common-8.0.0-alpha.4.tgz#39ab9b9aa621b6bcbd60b266f408e34848ab285e"
-  integrity sha512-84j4DBMG8qUxp2pVmSOuMz8iH0Ex58e4qLJ3LpJ7TTCGDdrg6lRxMQfxOQKeUi9IrmKURnovRM/ZUTjM3KzPGg==
+"@nestjs/common@^8.0.0-alpha.5":
+  version "8.0.0-alpha.5"
+  resolved "https://registry.yarnpkg.com/@nestjs/common/-/common-8.0.0-alpha.5.tgz#998a32c399d9f45020b16779fd8df228cf4633fd"
+  integrity sha512-aPSj1VOWH1Cu/QS/kdRDfE9DSaCqP7Yfv+uQwspuvOu1FaJ0Pz4qoip6B83hFN9YQORfint0tOAtAqJUdBGIyQ==
   dependencies:
     axios "0.21.1"
     iterare "1.2.1"
     tslib "2.2.0"
     uuid "8.3.2"
 
-"@nestjs/core@^8.0.0-alpha.4":
-  version "8.0.0-alpha.4"
-  resolved "https://registry.yarnpkg.com/@nestjs/core/-/core-8.0.0-alpha.4.tgz#d79252b0dc48933c7d414a3712cafe3b17e545fe"
-  integrity sha512-vkia5K17pqw8PKj6fjU6/Da6OuC3hLNPnCEC7x4u1qaQw0yzzX2cLfSh48Of9y8DmcFizgUMlWay535yDSYGIg==
+"@nestjs/core@^8.0.0-alpha.5":
+  version "8.0.0-alpha.5"
+  resolved "https://registry.yarnpkg.com/@nestjs/core/-/core-8.0.0-alpha.5.tgz#2577a2ce7819e212b9809cd4223535181b210a4c"
+  integrity sha512-IQ4ouYgYuuhZZnzpLR7V3DQyG/6O8CgZj/BgzXnqZ3S+6neyfJniyTh5Oq+ePUCPAZb/nyEz8znNWSmSqBLIxQ==
   dependencies:
     "@nuxtjs/opencollective" "0.3.2"
     fast-safe-stringify "2.0.7"
@@ -607,10 +607,10 @@
     tslib "2.2.0"
     uuid "8.3.2"
 
-"@nestjs/platform-express@^8.0.0-alpha.4":
-  version "8.0.0-alpha.4"
-  resolved "https://registry.yarnpkg.com/@nestjs/platform-express/-/platform-express-8.0.0-alpha.4.tgz#098007f5e7cd514b4da4573407a37ca7d531dfff"
-  integrity sha512-HszS8swmwS8emtanxEbuhzf/Mm+iMAyHs5z4wAJoe+2EAQx55Xrs8DoUBSrpBWA+t+QanHxVXd2/0WX9lV3S/A==
+"@nestjs/platform-express@^8.0.0-alpha.5":
+  version "8.0.0-alpha.5"
+  resolved "https://registry.yarnpkg.com/@nestjs/platform-express/-/platform-express-8.0.0-alpha.5.tgz#bc78ba3b6df23eeea88dc5cccef5b288a1dc2955"
+  integrity sha512-Z2z+Z6w/5sf1sLCJIAqy37xLnB6PQiufozxYe4u4eXr/+91rguz9ExQf1WHVu2AvCLANvHohoG60ax35FB3iig==
   dependencies:
     body-parser "1.19.0"
     cors "2.8.5"
@@ -629,10 +629,10 @@
     jsonc-parser "3.0.0"
     pluralize "8.0.0"
 
-"@nestjs/testing@^8.0.0-alpha.4":
-  version "8.0.0-alpha.4"
-  resolved "https://registry.yarnpkg.com/@nestjs/testing/-/testing-8.0.0-alpha.4.tgz#4738005928a44005a65866bc0fe5b0a284e0c5b7"
-  integrity sha512-9D0TYtQshjm3CxJDjBYdioPgrKqW9l6/waZu0WOUToDwZVxr+X30ML/8E2ha82sQpyLln3Mn+mBa4fu7eIGGBg==
+"@nestjs/testing@^8.0.0-alpha.5":
+  version "8.0.0-alpha.5"
+  resolved "https://registry.yarnpkg.com/@nestjs/testing/-/testing-8.0.0-alpha.5.tgz#fed70d10f1d9cf8ebb264680640a720e3ddca3ef"
+  integrity sha512-JDjJRqmh+HJrfQGb0nEYu1q2YBACU418kgfCZDn7TgpZdBvtaRqT7AhHN9J48bEmNPBVr8a+c8n0ro2m/magwg==
   dependencies:
     optional "0.1.4"
     tslib "2.2.0"
